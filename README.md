@@ -3,7 +3,7 @@ The software was developed at NII Japan. This project just makes it easier to re
 
 ## Prerequiste: docker
 
-## Installation
+## Build
 ./b
 
 ## Run
