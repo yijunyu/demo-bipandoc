@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[user]
+	name = Yijun Yu
+	email = y.yu@open.ac.uk
+[core]
+	excludesfile = ~/.cvsignore
